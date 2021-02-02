@@ -1,6 +1,7 @@
 package com.lldm.debuglib
 
 import android.util.Log
+import com.sunmi.pay.hardware.aidlv2.system.BasicOptV2
 
 object DebugUtil {
     fun d(tag: String, msg: String) {
